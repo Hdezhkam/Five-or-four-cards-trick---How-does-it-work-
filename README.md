@@ -68,7 +68,7 @@ Scenario C) 3 of a kind and 1 different (♠, ♠, ♠, ♦)
 
 3- If the selected card is not included in the cards: (♣ or ♥)
 
-- Player-2 puts the different card (♦) at the position of that kind of card acceding to the basic arranged rule [P1 ♠, P2 ♣, P3 ♥, P4 ♦]-ex: selected card is (♣)  [♠, ♦, ♠, ♠]
+- Player-2 puts the different card (♦) at the position of that kind of card acceding to the basic arranged rule [P1 ♠, P2 ♣, P3 ♥, P4 ♦]-ex: selected card is (♣) => [♠, ♦, ♠, ♠]
 
 Scenario D) 2 pairs of similar kind (♠, ♠, ♥, ♥)
 
