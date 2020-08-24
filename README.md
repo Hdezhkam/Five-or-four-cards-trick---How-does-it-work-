@@ -4,6 +4,7 @@ solution for A five (or Four) cards puzzle
 In this puzzle we should encode 2 main keys:
 
  1- Number (value) of selected card.
+ 
  2- Type of selected Card (Heart, Spades, Diamond or Clubs)
 
 A-Start of the game
